@@ -137,6 +137,7 @@ nav {
 }
 .nav-item a {
   color: var(--light);
+  padding: 6px;
 }
 
 .nav-item:hover .underline {
@@ -461,6 +462,7 @@ footer {
 }
 .footer-item a {
   color: var(--light);
+  padding: 6px;
 }
 .footer-item:hover .underline {
   width: 50%;
