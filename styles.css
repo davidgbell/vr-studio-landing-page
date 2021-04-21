@@ -464,6 +464,9 @@ footer {
   color: var(--light);
   padding: 6px;
 }
+.footer-item:first-of-type a {
+  padding-left: 0;
+}
 .footer-item:hover .underline {
   width: 50%;
 }
